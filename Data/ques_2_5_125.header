@@ -1,0 +1,7 @@
+# Channels 5
+Sampling Rate 960
+Chan1 Biceps Raw                          
+Chan2 Wrist Extensor Raw                
+Chan3 Filtered EMG                            
+Chan4 Ball Position (radians)               
+Chan5 Elbow Position (rad)           
