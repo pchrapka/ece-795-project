@@ -1,4 +1,4 @@
-ece-795-project
+emg-exploration
 ===============
 
 Project for ECE 795 Electrophysiology
